@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the Zenodo record and the associated article."
+title: "Covariate-conditional reference change values for HbA1c derived from routine laboratory data: analysis code"
+version: "1.0.0"
+date-released: "2026-10-18"
+license: MIT
+authors:
+  - family-names: Akbay
+    given-names: Halil İbrahim
+    affiliation: "Department of Medical Biochemistry, Faculty of Medicine, Van Yüzüncü Yıl University, Van, Türkiye"
+  - family-names: Çubukcu
+    given-names: Hikmet Can
+    affiliation: "General Directorate of Health Services, Rare Diseases Department, Turkish Ministry of Health, Ankara, Türkiye"
+  - family-names: Theodorsson
+    given-names: Elvar
+    orcid: "https://orcid.org/0000-0003-0756-7723"
+    affiliation: "Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden"
+  - family-names: Alp
+    given-names: Hamit Hakan
+    affiliation: "Department of Medical Biochemistry, Faculty of Medicine, Van Yüzüncü Yıl University, Van, Türkiye"
+keywords:
+  - reference change value
+  - biological variation
+  - HbA1c
+  - type 2 diabetes
+  - diabetic nephropathy
+  - indirect method

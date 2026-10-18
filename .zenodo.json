@@ -1,0 +1,16 @@
+{
+  "title": "Covariate-conditional reference change values for HbA1c derived from routine laboratory data: analysis code",
+  "upload_type": "software",
+  "description": "Analysis code (Python 3.11) and the synthetic validation cohort supporting the article 'Covariate-conditional reference change values for HbA1c derived from routine laboratory data: type 2 diabetes with and without diabetic nephropathy' (submitted to Clinical Chemistry, 2026). The pipeline fits a location-scale Student-t density to log-differences of consecutive results to obtain phenotype-specific within-subject variation and asymmetric RCVs, and a hierarchical Student-t dispersion model (PyMC) to derive covariate-conditional RCVs. Patient data are not included; data/INPUT_SCHEMA.md describes the input layout so the pipeline can be applied to other laboratories' serial HbA1c data. See README.md.",
+  "creators": [
+    {"name": "Akbay, Halil İbrahim", "affiliation": "Van Yüzüncü Yıl University, Van, Türkiye"},
+    {"name": "Çubukcu, Hikmet Can", "affiliation": "Turkish Ministry of Health, Ankara, Türkiye"},
+    {"name": "Theodorsson, Elvar", "affiliation": "Linköping University, Linköping, Sweden", "orcid": "0000-0003-0756-7723"},
+    {"name": "Alp, Hamit Hakan", "affiliation": "Van Yüzüncü Yıl University, Van, Türkiye"}
+  ],
+  "keywords": ["reference change value", "biological variation", "HbA1c", "type 2 diabetes", "diabetic nephropathy", "indirect method", "Student-t", "hierarchical model"],
+  "license": "mit",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng"
+}
