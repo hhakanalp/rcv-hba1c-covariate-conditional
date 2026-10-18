@@ -4,7 +4,7 @@ Analysis code for:
 
 > Akbay HI, Çubukcu HC, Theodorsson E, Alp HH. *Covariate-conditional reference change values for HbA1c derived from routine laboratory data: type 2 diabetes with and without diabetic nephropathy.* Submitted to Clinical Chemistry, 2026.
 
-Zenodo DOI: *to be added after the record is published.*
+Zenodo DOI: [10.5281/zenodo.23449051](https://doi.org/10.5281/zenodo.23449051)
 
 ## What is here
 
