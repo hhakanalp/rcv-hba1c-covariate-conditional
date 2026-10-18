@@ -1,0 +1,168 @@
+{
+ "real": {
+  "All": {
+   "patients": 4633,
+   "age_mean": 61.53831210878481,
+   "age_sd": 11.59802267109575,
+   "female": 2548,
+   "female_pct": 54.9967623570041,
+   "measurements": 22839,
+   "meas_per_pt": 4.929635225555796,
+   "pairs": 15758,
+   "pairs_per_pt_median": 2.0,
+   "pairs_per_pt_iqr": [
+    1.0,
+    4.0
+   ],
+   "pct_one_pair": 37.31923159939564,
+   "egfr_med": 90.595,
+   "acr_med": 5.6,
+   "hb_med": 14.6,
+   "mcv_med": 85.2,
+   "hba1c_med": 7.4,
+   "days_med": 108.0,
+   "days_iqr": [
+    89.0,
+    138.0
+   ],
+   "acr_visits_med": 2.0
+  },
+  "unc": {
+   "patients": 3961,
+   "age_mean": 61.60111083059834,
+   "age_sd": 11.656334766121175,
+   "female": 2154,
+   "female_pct": 54.380207018429694,
+   "measurements": 19490,
+   "meas_per_pt": 4.920474627619288,
+   "pairs": 13448,
+   "pairs_per_pt_median": 2.0,
+   "pairs_per_pt_iqr": [
+    1.0,
+    4.0
+   ],
+   "pct_one_pair": 37.08659429437011,
+   "egfr_med": 92.0,
+   "acr_med": 3.89,
+   "hb_med": 14.7,
+   "mcv_med": 85.2,
+   "hba1c_med": 7.3,
+   "days_med": 109.0,
+   "days_iqr": [
+    90.0,
+    138.0
+   ],
+   "acr_visits_med": 2.0
+  },
+  "neph": {
+   "patients": 672,
+   "age_mean": 61.16815476190476,
+   "age_sd": 11.249507259413178,
+   "female": 394,
+   "female_pct": 58.63095238095239,
+   "measurements": 3349,
+   "meas_per_pt": 4.9836309523809526,
+   "pairs": 2310,
+   "pairs_per_pt_median": 2.0,
+   "pairs_per_pt_iqr": [
+    1.0,
+    4.0
+   ],
+   "pct_one_pair": 38.69047619047619,
+   "egfr_med": 70.815,
+   "acr_med": 81.64500000000001,
+   "hb_med": 14.2,
+   "mcv_med": 84.9,
+   "hba1c_med": 8.1,
+   "days_med": 103.0,
+   "days_iqr": [
+    74.0,
+    133.0
+   ],
+   "acr_visits_med": 2.0
+  }
+ },
+ "sim": {
+  "All": {
+   "patients": 1744,
+   "age_mean": 60.403669724770644,
+   "age_sd": 11.008206830415464,
+   "female": 919,
+   "female_pct": 52.694954128440365,
+   "measurements": 6912,
+   "meas_per_pt": 3.963302752293578,
+   "pairs": 4980,
+   "pairs_per_pt_median": 3.0,
+   "pairs_per_pt_iqr": [
+    2.0,
+    4.0
+   ],
+   "pct_one_pair": 18.291284403669724,
+   "egfr_med": 79.225,
+   "acr_med": 25.05,
+   "hb_med": 13.7,
+   "mcv_med": 86.1,
+   "hba1c_med": 7.7,
+   "days_med": 99.0,
+   "days_iqr": [
+    71.0,
+    128.0
+   ],
+   "acr_visits_med": 3.0
+  },
+  "unc": {
+   "patients": 973,
+   "age_mean": 59.59301130524152,
+   "age_sd": 10.932491709405019,
+   "female": 507,
+   "female_pct": 52.106885919835555,
+   "measurements": 3862,
+   "meas_per_pt": 3.9691675231243577,
+   "pairs": 2795,
+   "pairs_per_pt_median": 3.0,
+   "pairs_per_pt_iqr": [
+    2.0,
+    4.0
+   ],
+   "pct_one_pair": 18.91058581706064,
+   "egfr_med": 89.31,
+   "acr_med": 6.0,
+   "hb_med": 13.9,
+   "mcv_med": 86.1,
+   "hba1c_med": 7.4,
+   "days_med": 98.0,
+   "days_iqr": [
+    71.0,
+    128.0
+   ],
+   "acr_visits_med": 3.0
+  },
+  "neph": {
+   "patients": 771,
+   "age_mean": 61.42671854734112,
+   "age_sd": 11.02527259714973,
+   "female": 412,
+   "female_pct": 53.43709468223087,
+   "measurements": 3050,
+   "meas_per_pt": 3.9559014267185475,
+   "pairs": 2185,
+   "pairs_per_pt_median": 3.0,
+   "pairs_per_pt_iqr": [
+    2.0,
+    4.0
+   ],
+   "pct_one_pair": 17.509727626459142,
+   "egfr_med": 63.394999999999996,
+   "acr_med": 113.8,
+   "hb_med": 13.4,
+   "mcv_med": 86.0,
+   "hba1c_med": 8.1,
+   "days_med": 100.0,
+   "days_iqr": [
+    72.0,
+    128.0
+   ],
+   "acr_visits_med": 3.0
+  }
+ }
+}
